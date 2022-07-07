@@ -1,3 +1,25 @@
+@media only screen and (max-width:1920px){
+    html,
+    body{
+        font-size: 14px;
+    }
+
+    .about-section{
+        margin-bottom: 20px;
+    }
+
+    .about-para{
+        margin-bottom: 20px;
+    }
+
+    .section-heading,
+    .packages-heading,
+    .contact-heading{
+        margin-top: 90px;
+    }
+}
+
+
 /* BIG TABLETS TO SMALLER LAPTOP SCREENS */
 @media only screen and (max-width:1200px){
     html,
